@@ -18,7 +18,6 @@ double make_random_number(double min_ch, double max_ch, int sid_variable)
   return random_number;
 }
 
-// gg
 
 int make_dec_remain(double double_variable)
 {
