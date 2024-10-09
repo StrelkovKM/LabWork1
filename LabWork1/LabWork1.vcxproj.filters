@@ -15,11 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
+    <ClCompile Include="New_main.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="func.h">
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="func.h">
       <Filter>Исходные файлы</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>
